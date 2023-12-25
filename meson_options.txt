@@ -1,0 +1,4 @@
+option('sm',
+  type: 'boolean', value: true,
+  description: 'session management support, for embedded/size-sensitive custom non-MATE builds')
+  
